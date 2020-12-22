@@ -1,6 +1,6 @@
 # Meta-and-Documentation
 
-A Dockerfile to build an image with a few specific tools for CI:
+CI Pipeline agent for generating and syncing documentation with Confluence.  The following tools are pre-installed:
 
 - [PowerShell Core](https://github.com/PowerShell/PowerShell) for CI scripting and automation
 - [node](https://nodejs.org/en/download/) + [meta](https://github.com/mateodelnorte/meta) for meta-repository management
